@@ -2,8 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 ==========================================================================================================================================
 
-
-My name is Pedro Luis Silva Azevedo. I work as a Systems Analyst | DevOps Engineer at CI&T
+My name is Pedro Azevedo. I work as a Systems Analyst (DevOps Engineer, Platforms Engineer, Cloud Architect)  at CI&T
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=psilvaazevedo&repo=psilvaazevedo&countColorcountColor)
 
